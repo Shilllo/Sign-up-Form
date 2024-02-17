@@ -17,7 +17,7 @@ img {
     align-items: center;
     padding-top: 10vh;
     padding-bottom: 20px;
-    height: 100vh
+    height: 88vh
 }
 
 .title {
@@ -35,7 +35,7 @@ img {
 
 .footer {
     color: white;
-    font-size: clamp(20px, 50%, 40px);
+    font-size: clamp(10px, 50%, 20px);
     font-weight: bold;
 }
 
