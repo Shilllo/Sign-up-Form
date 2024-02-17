@@ -51,7 +51,11 @@ img {
     justify-content: space-between;
     margin: 30px;
     font-size: 3ch;
-    height: 20%
+    /* height: 20% */
+}
+
+div.description * {
+    margin: 20px 20px 20px 0
 }
 
 form {
@@ -91,3 +95,6 @@ a {
     color: orange
 }
 
+h2 {
+    font-size: clamp(25px, 50%, 50px);
+}
